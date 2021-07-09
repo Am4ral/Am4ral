@@ -5,8 +5,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Am4ral) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Am4ral&count_private=true&show_icons=true&include_all_commits=true) 
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/h0G9ydMc9jP5K004F3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/h0G9ydMc9jP5K004F3">via GIPHY</a></p>
-
 ### About me
 Currently an student in IT integrated with High School at Centro Federal de Educação Tecnológica de Minas Gerais ([CEFET-MG](https://www.cefetmg.br/), Brazil) since 2019, Vice President of the Student Union and Student Representative of [Conselho de Educação Profissional e Tecnológica](https://www2.cefetmg.br/textoGeral/conselhos/cept.html). I'm interested in biology, chemistry, biotechnology, programming.
 
