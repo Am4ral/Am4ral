@@ -1,5 +1,5 @@
 ### Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, my name is Marco Túlio
-[![Instagram Badge](https://img.shields.io/badge/-mtamaral_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mtamaral_/](https://www.instagram.com/mtamaral_/)
+
 [![Gmail Badge](https://img.shields.io/badge/-docs.mtamaral@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:docs.mtamaral@gmail.com)](mailto:docs.mtamaral@gmail.com)
 
 ![Profile views](https://gpvc.arturio.dev/Am4ral)  
