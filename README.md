@@ -10,6 +10,18 @@ Currently an student in IT integrated with High School at Centro Federal de Educ
 
 - 🔭 I’m currently working on my end of course project
 
+### ⚡ Technologies
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
 ![Profile views](https://gpvc.arturio.dev/Am4ral)  
 <!--
 **Am4ral/Am4ral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
