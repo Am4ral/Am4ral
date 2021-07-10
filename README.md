@@ -7,7 +7,7 @@
 
 ### About me
 <img align='right' src="https://media.giphy.com/media/shs6b8tPdbzmPREN8K/giphy.gif" width="230">
-Currently an student in IT integrated with High School at Centro Federal de Educação Tecnológica de Minas Gerais [CEFET-MG](https://www.cefetmg.br/ , Brazil) since 2019, Vice President of the Student Union and Student Representative of [Conselho de Educação Profissional e Tecnológica](https://www2.cefetmg.br/textoGeral/conselhos/cept.html). I'm interested in biology, chemistry, biotechnology, programming.
+Currently an student in IT integrated with High School at Centro Federal de Educação Tecnológica de Minas Gerais ([CEFET-MG](https://www.cefetmg.br/) , Brazil) since 2019, Vice President of the Student Union and Student Representative of [Conselho de Educação Profissional e Tecnológica](https://www2.cefetmg.br/textoGeral/conselhos/cept.html). I'm interested in biology, chemistry, biotechnology, programming.
 
 
 
