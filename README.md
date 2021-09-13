@@ -2,8 +2,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-docs.mtamaral@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:docs.mtamaral@gmail.com)](mailto:docs.mtamaral@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Am4ral) 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Am4ral&count_private=true&show_icons=true&include_all_commits=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Am4ral&theme=dark) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Am4ral&count_private=true&show_icons=true&include_all_commits=true&theme=dark) 
 
 ### About me
 <img align='right' src="https://media.giphy.com/media/shs6b8tPdbzmPREN8K/giphy.gif" width="230"></img>
