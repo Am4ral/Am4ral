@@ -1,3 +1,4 @@
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Am4ral)
 ### Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, my name is Marco Túlio
 
 [![Gmail Badge](https://img.shields.io/badge/-docs.mtamaral@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:docs.mtamaral@gmail.com)](mailto:docs.mtamaral@gmail.com)
@@ -25,7 +26,6 @@ Currently an student in IT integrated with High School at Centro Federal de Educ
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Am4ral)
 <!--
 **Am4ral/Am4ral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
