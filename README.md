@@ -25,7 +25,7 @@ Currently an student in IT integrated with High School at Centro Federal de Educ
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Am4ral)
 ![Profile views](https://gpvc.arturio.dev/Am4ral)  
 <!--
 **Am4ral/Am4ral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
