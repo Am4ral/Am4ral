@@ -7,11 +7,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Am4ral&count_private=true&show_icons=true&include_all_commits=true&theme=dark) 
 
 ### About me
-Currently an student in IT integrated with High School at Centro Federal de Educação Tecnológica de Minas Gerais ([CEFET-MG](https://www.cefetmg.br/) , Brazil) since 2019, Vice President of the Student Union and Student Representative of [Conselho de Educação Profissional e Tecnológica](https://www2.cefetmg.br/textoGeral/conselhos/cept.html). I'm interested in biology, chemistry, biotechnology and programming.
+Currently an Computer Science student at Universidade Federal de Lavras ([UFLA](https://ufla.br/) , Brazil) since 2022. I'm interested in biology, chemistry, biotechnology and programming.
 
 
 
-- 🔭 I’m currently working on my end of course project
 
 
 
