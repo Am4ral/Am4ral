@@ -7,7 +7,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Am4ral&count_private=true&show_icons=true&include_all_commits=true&theme=dark) 
 
 ### About me
-Currently studing Computer Science at Federal University of Lavras ([UFLA](https://ufla.br/) , Brazil) since 2022. I'm interested in software development.
+Currently studying Computer Science at Federal University of Lavras ([UFLA](https://ufla.br/) , Brazil) since 2022. I'm interested in software development.
 
 
 
