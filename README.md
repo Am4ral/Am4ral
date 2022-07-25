@@ -1,5 +1,5 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Am4ral)
-### Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, my name is Marco Túlio
+### Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, my name is Marco Túlio
 
 [![Gmail Badge](https://img.shields.io/badge/-docs.mtamaral@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:docs.mtamaral@gmail.com)](mailto:docs.mtamaral@gmail.com)
 
