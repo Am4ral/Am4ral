@@ -3,8 +3,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-docs.mtamaral@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:docs.mtamaral@gmail.com)](mailto:docs.mtamaral@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Am4ral&theme=dark) 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Am4ral&count_private=true&show_icons=true&include_all_commits=true&theme=dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Am4ral&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Am4ral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Am4ral&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 ### About me
 Currently studying Computer Science at Federal University of Lavras ([UFLA](https://ufla.br/) , Brazil) since 2022. I'm interested in software development.
