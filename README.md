@@ -1,9 +1,9 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Am4ral)
+[![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Am4ral)]
 ### Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, my name is Marco Túlio
 
 [![Gmail Badge](https://img.shields.io/badge/-docs.mtamaral@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:docs.mtamaral@gmail.com)](mailto:docs.mtamaral@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Am4ral&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Am4ral&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Am4ral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Am4ral&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 ### About me
